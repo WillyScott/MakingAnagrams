@@ -13,29 +13,7 @@ namespace ConsoleApp3
             List<string> stringList = new List<string>();
             stringList.Add("findnoO");
             stringList.Add("fslsls");
-            string sumChar = "";
-            //foreach (char tempChar in tempCompare)
-            //{
-            //    sumChar = sumChar + tempChar;
-            //    //System.Console.WriteLine(sumChar);
-
-            //    foreach (string tempString in stringList)
-            //    {
-            //        if (tempString.StartsWith(sumChar))
-            //        {
-            //            Console.WriteLine("match");
-            //            Console.WriteLine(sumChar);
-            //            Console.WriteLine(tempString);
-            //        }
-            //        // compare the string
-
-
-            //    }
-
-            //}
-
-
-
+                        
             Console.WriteLine(Result.makingAnagrams("cde", "abcc"));
             Console.WriteLine("Hello World!");
             //Console.WriteLine(Result.makingAnagrams("absdjkvuahdakejfnfauhdsaavasdlkj", "dcfdjfladfhiawasdkjvalskufhafablsdkashlahdfa"));
